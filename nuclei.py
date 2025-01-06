@@ -43,6 +43,6 @@ for item in extracted_info:
 
 print(formatted_data)
 
-mail = sendmail("ashwanthbalajir@gmail.com", "mluu ztsc uatl voag", formatted_data)
+mail = sendmail("ashwanthbalajir@************.com", "mluu **** **** ****", formatted_data)
 print(mail)
 
